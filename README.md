@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Wh00ps >,<
+    Wh00pz Private Page >,<
   </samp>
 </p>
 
