@@ -1,8 +1,6 @@
 <p>
   <samp>
-    <center>
       你好你好，欢迎好人>,<
-    </center>
   </samp>
 </p>
 
