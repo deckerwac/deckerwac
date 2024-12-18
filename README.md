@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Wh00pz Private Page >,<
+    哦，沒有私人頁面>,<
   </samp>
 </p>
 
