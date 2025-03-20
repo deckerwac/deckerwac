@@ -33,7 +33,7 @@
   </samp>
 </h2>
 
-```console
+```txt
 $ curl -o https://raw.githubusercontent.com/flux10n/flux10n/refs/heads/main/pub-key.sh pub-key.sh
 $ chmod +x pub-key.sh && clear
 $ ./pub-key.sh
