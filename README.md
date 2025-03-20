@@ -1,15 +1,10 @@
+<h2>
+  <samp>
+     关于我
+  </samp>
+</h2>
 <p>
   <samp>
-      你好你好，欢迎好人>,<
+    魔法村的冒险者被龙火击中，为了消灭龙神而寻找伙伴的冒险之旅。
   </samp>
 </p>
-
-<!---<h2 align="left">
-<samp>
-  Activity
-</samp>
-</h2>-->
-
-<!--
-![Alt](https://repobeats.axiom.co/api/embed/2706a03c0942c72020ddb025b8ef63ae5fa485b5.svg "Repobeats analytics image")
--->
