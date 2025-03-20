@@ -34,7 +34,7 @@
 </h2>
 
 ```console
-./key.sh
+$ ./pub-key.sh
 ```
 
 ____
