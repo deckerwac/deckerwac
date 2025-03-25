@@ -34,8 +34,7 @@
 </h2>
 
 ```
-$ curl -o https://raw.githubusercontent.com/flux10n/flux10n/refs/heads/main/pub-key.sh pub-key.sh
-$ chmod +x pub-key.sh && ./pub-key.sh
+$ curl -s https://github.com/deckerwac.gpg | gpg --import
 ```
 
 ____
